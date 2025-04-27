@@ -1,0 +1,220 @@
+{
+    "experiments": [
+        {
+            "classLevel": 1,
+            "courseType": 1,
+            "title": "Pressure by Cuboid",
+            "description": "Calculating the Pressure Exerted by Solid Cuboid",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Observe and Compare the Pressure Exerted by a SolidIron"
+        },
+        {
+            "classLevel": 1,
+            "courseType": 2,
+            "title": "Solid's Density Measurement",
+            "description": "Determine solid's density using spring balance, cylinder",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Determine the Density of the Material of a Given Solid Using a Spring Balance and a Measuring Cylinder"
+        },
+        {
+            "classLevel": 1,
+            "courseType": 2,
+            "title": "Third Law Verification",
+            "description": "Verify third motion law using spring balances",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Verify the Third Law of Motion Using Two Spring Balances"
+        },
+        {
+            "classLevel": 1,
+            "courseType": 2,
+            "title": "Helical Spring Extension",
+            "description": "Measure spring extensions under increasing loads accurately",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To measure extensions in the length of a helical spring with increasing load"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 1,
+            "title": "Chemical vs. Physical Changes",
+            "description": "Differentiate chemical vs. physical changes effectively",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Differentiate between a Chemical and Physical Change in a Given  Process"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 1,
+            "title": "Osmosis Observation",
+            "description": "Study osmosis process through semipermeable membrane",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Study the Process of Osmosis through a Semipermeable Membrane"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Tuning Fork Frequency Comparison",
+            "description": "Compare tuning fork frequencies with resonance positions",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To compare the frequencies of two tuning forks by finding the first and second resonance positions in a resonance tube."
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Starch Presence Test",
+            "description": "Test starch presence in sunlight-exposed leaves",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Test the Presence of Starch in Green Leaves Exposed to Sunlight"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Household Circuit Assembly",
+            "description": "Assemble household circuit with two 3V bulbs",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Assemble a Household Circuit Comprising Two Bulbs (3 Volt each)"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Laws of Reflection",
+            "description": "Understand and verify laws governing light reflection",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Study the Laws of Reflection of Light Using a Plane Mirror"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Wire Diameter Measurement",
+            "description": "Measure wire diameter using a precise screw gauge",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "Determine the diameter of a given wire using a screw gauge"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Vernier Calipers Usage",
+            "description": "Determine container dimensions using vernier calipers",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "Determine the internal diameter and depth of a cylinderical container using a vernier callipers"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Mirror's Curvature Radius",
+            "description": "Find mirror's curvature radius with spherometer",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "Determine the radius of curvature of a concave mirror using a spherometer"
+        },
+        {
+            "classLevel": 1,
+            "courseType": 2,
+            "title": "Pendulum Time Period",
+            "description": "Measure pendulum time period for small amplitudes",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To find the time period of a simple pendulum for small amplitudes"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Specific Heat Determination",
+            "description": "Determine solid's heat capacity via mixtures method",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "Determine the specific heat of a solid using the method of mixtures."
+        },
+        {
+            "classLevel": 1,
+            "courseType": 1,
+            "title": "Oxygen Percentage Calculation",
+            "description": "Find approximate oxygen percentage present in air",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To find out the Approximate Percentage of Oxygen in Air"
+        },
+        {
+            "classLevel": 1,
+            "courseType": 1,
+            "title": "Carbon Dioxide Test",
+            "description": "Test air for carbon dioxide presence",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Test the Presence of Carbon Dioxide (CO2) in Air"
+        },
+        {
+            "classLevel": 1,
+            "courseType": 1,
+            "title": "Chemical Reactions Study",
+            "description": "Carry out and observe various chemical reactions",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Carry out Chemical Reactions of Different Types"
+        },
+        {
+            "classLevel": 1,
+            "courseType": 2,
+            "title": "Pulse Speed Measurement",
+            "description": "Determine pulse speed through a stretched string",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To Determine the Speed of a Pulse Propagated through a Stretched String"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Tension-Length Relation",
+            "description": "Graph string tension-length relation with sonometer",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To measure extensions in the length of a helical spring with increasing load"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Resistances Combination Law",
+            "description": "Verify resistances in series and parallel combination",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To verify the law of combination (series and parallel) of resistances"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "EMF Comparison Experiment",
+            "description": "Compare two cells’ EMF with potentiometer accurately",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To compare the emf’s of two given primary cells by using a potentiometer."
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Wire Resistance Measurement",
+            "description": "Determine wire resistance using metre bridge method",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "Determine the specific resistance of the material of two given wires using a metre bridge."
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Cell's Internal Resistance",
+            "description": "Measure a cell's internal resistance with potentiometer",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "cells internal resistance.bundle"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 1,
+            "title": "Electrolyte Concentration Study",
+            "description": "Study cell potential vs. electrolyte concentration change",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To study the variation of cell potential"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 2,
+            "title": "Galvanometer Resistance Experiment",
+            "description": "Determine galvanometer's resistance through experiment",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "To determine the internal resistance of a galvanometer"
+        },
+        {
+            "classLevel": 3,
+            "courseType": 1,
+            "title": "Basic Laboratory Techniques",
+            "description": "Learn fundamental techniques for efficient laboratory work",
+            "thumbnail": "thumbnail link",
+            "assetBundleName": "Basic laboratory Techniques"
+        }
+    ]
+}
